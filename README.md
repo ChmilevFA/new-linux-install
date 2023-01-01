@@ -15,8 +15,10 @@
 * `emulate sh -c 'source /etc/profile'`
 
 ### Install plugins
+* advanced autosuggestion plugin `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions`
 * `ls ~/.oh-my-zsh/plugins` and https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins\
-Example `plugins=(git aws terraform docker docker-compose yarn nvm postgres)`
+in `~/.zshrc` add plugins\
+Example `plugins=(git aws terraform docker docker-compose yarn nvm postgres zsh-autosuggestions)`
 * `exec zsh`
 
 ## enpass https://www.enpass.io/support/kb/general/how-to-install-enpass-on-linux/
