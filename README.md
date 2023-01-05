@@ -57,6 +57,8 @@ npm install --global yarn
 ```
 
 ## Docker
+* https://docs.docker.com/desktop/install/linux-install/\
+If any problems with previous:
 * https://docs.docker.com/engine/install/ubuntu/
 * https://docs.docker.com/engine/install/linux-postinstall/
 
