@@ -21,6 +21,9 @@ in `~/.zshrc` add plugins\
 Example `plugins=(git aws terraform docker docker-compose yarn nvm postgres zsh-autosuggestions)`
 * `exec zsh`
 
+### Other
+* for MacOs you might need to ensure that the necessary content from `~/.bash_profile` is in `~/.zshrc` too
+
 ## enpass https://www.enpass.io/support/kb/general/how-to-install-enpass-on-linux/
 * `snap install enpass`
 OR
